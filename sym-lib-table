@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/espressif-kicad-library/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-DEVKITC-32D")(type "Legacy")(uri "${KIPRJMOD}/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.lib")(options "")(descr ""))
+)

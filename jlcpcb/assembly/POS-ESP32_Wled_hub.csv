@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1000uF,C_Radial_D10.0mm_H16.0mm_P5.00mm,118.86,-48.8,0.0,top
+J1,Screw_Terminal_01x02,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",120.36,-78.5,90.0,top
+J4,OUT 1,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",73.655,-84.125,0.0,top
+J5,OUT 3,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",104.145,-42.875,180.0,top
+J6,OUT 2,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",93.98,-83.82,0.0,top
+J7,OUT 4,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",83.825,-42.875,180.0,top
+U1,74LS125,SOIC-14-DIP-14-combo,90.76,-66.9,0.0,top
+U2,ESP32-DEVKITC-32D,MODULE_ESP32-DEVKITC-32D,86.11,-63.5,90.0,top

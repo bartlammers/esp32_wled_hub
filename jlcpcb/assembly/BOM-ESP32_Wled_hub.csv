@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+74LS125,U1,SOIC-14-DIP-14-combo,C7734
+1000uF,C1,C_Radial_D10.0mm_H16.0mm_P5.00mm,
+MountingHole,H4,MountingHole_3.2mm_M3_Pad_Via,
+ESP32-DEVKITC-32D,U2,MODULE_ESP32-DEVKITC-32D,
+MountingHole,H3,MountingHole_3.2mm_M3_Pad_Via,
+OUT 1,J4,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",
+MountingHole,H1,MountingHole_3.2mm_M3_Pad_Via,
+MountingHole,H2,MountingHole_3.2mm_M3_Pad_Via,
+Screw_Terminal_01x02,J1,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",
+OUT 3,J5,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",
+OUT 2,J6,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",
+OUT 4,J7,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",

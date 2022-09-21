@@ -1,0 +1,33 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,470uF,CP_Elec_6.3x7.7,112.76,-80.7,180.0,top
+C2,10uF,C_0805_2012Metric,67.76,-78.515,180.0,top
+C3,100nF,C_0805_2012Metric,67.76,-76.1,180.0,top
+C4,1uF,C_0805_2012Metric,83.36,-75.6,90.0,top
+C5,4.7uF,C_0805_2012Metric,101.56,-63.1,-90.0,top
+C6,4.7uF,C_0805_2012Metric,99.46,-75.3,180.0,top
+C7,100nF,C_0805_2012Metric,104.76,-61.0,180.0,top
+D1,B5819W,D_SOD-123,109.46,-60.4,0.0,top
+D2,LED,LED_0805_2012Metric,63.56,-80.9,0.0,top
+D3,LED,LED_0805_2012Metric,69.56,-51.0,0.0,top
+J1,Screw_Terminal_01x02,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",109.56,-71.7,90.0,top
+J2,OUT 1,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",73.655,-84.125,0.0,top
+J3,OUT 3,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",104.145,-42.875,180.0,top
+J4,OUT 2,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",93.98,-83.82,0.0,top
+J5,OUT 4,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",83.825,-42.875,180.0,top
+J6,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,114.56,-52.9,270.0,top
+Q1,SS8050,SOT-23,97.06,-59.5,270.0,top
+Q2,SS8050,SOT-23,89.36,-59.5,90.0,top
+R1,10k,R_0805_2012Metric,80.76,-75.6,90.0,top
+R2,5k1,R_0805_2012Metric,113.96,-60.3,0.0,top
+R3,5k1,R_0805_2012Metric,113.96,-45.5,0.0,top
+R4,1K,R_0805_2012Metric,67.76,-80.9,180.0,top
+R5,1K,R_0805_2012Metric,73.26,-51.0,180.0,top
+R6,10k,R_0805_2012Metric,96.96,-52.2,90.0,top
+R7,10k,R_0805_2012Metric,93.16,-60.5,180.0,top
+R8,10k,R_0805_2012Metric,93.16,-58.5,0.0,top
+SW1,RESET,SW_SPST_SKQG_WithStem,89.76,-75.1,180.0,top
+SW2,BOOT,SW_SPST_SKQG_WithStem,89.76,-51.5,0.0,top
+U1,74LS125,SOIC-14_3.9x8.7mm_P1.27mm,90.76,-66.9,0.0,top
+U2,ESP32-WROOM-E,ESP32-WROOM-32E,73.36,-63.5,0.0,top
+U3,AMS1117-3.3,SOT-223-3_TabPin2,99.56,-69.5,90.0,top
+U4,CH340C,SOIC-16_3.9x9.9mm_P1.27mm,102.86,-54.3,90.0,top

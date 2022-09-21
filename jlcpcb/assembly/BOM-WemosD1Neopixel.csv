@@ -1,0 +1,28 @@
+Comment,Designator,Footprint,LCSC
+5k1,"R2,R3",R_0805_2012Metric,C115309
+10uF,C2,C_0805_2012Metric,C15850
+USB_C_Receptacle_USB2.0,J6,USB_C_Receptacle_HRO_TYPE-C-31-M-12,C165948
+10k,"R1,R6,R7,R8",R_0805_2012Metric,C17414
+1K,"R4,R5",R_0805_2012Metric,C17513
+4.7uF,"C5,C6",C_0805_2012Metric,C1779
+SS8050,"Q1,Q2",SOT-23,C2150
+LED,D2,LED_0805_2012Metric,C2296
+1uF,C4,C_0805_2012Metric,C28323
+470uF,C1,CP_Elec_6.3x7.7,C2977552
+RESET,"SW1,SW2",SW_SPST_SKQG_WithStem,C318884
+100nF,"C3,C7",C_0805_2012Metric,C49678
+AMS1117-3.3,U3,SOT-223-3_TabPin2,C6186
+ESP32-WROOM-E,U2,ESP32-WROOM-32E,C701341
+74LS125,U1,SOIC-14_3.9x8.7mm_P1.27mm,C7734
+LED,D3,LED_0805_2012Metric,C84256
+CH340C,U4,SOIC-16_3.9x9.9mm_P1.27mm,C84681
+B5819W,D1,D_SOD-123,C8598
+OUT 3,J3,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",
+MountingHole,H4,MountingHole_3.2mm_M3,
+MountingHole,H3,MountingHole_3.2mm_M3,
+OUT 2,J4,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",
+OUT 1,J2,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",
+MountingHole,H1,MountingHole_3.2mm_M3,
+MountingHole,H2,MountingHole_3.2mm_M3,
+Screw_Terminal_01x02,J1,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",
+OUT 4,J5,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",
